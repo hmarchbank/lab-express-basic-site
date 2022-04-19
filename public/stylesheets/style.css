@@ -26,3 +26,20 @@ a:hover{
     text-decoration: underline;
 }
 
+
+.imgcontainer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+
+
+.card-img-top{
+    width: 400px;
+}
+
+.card{
+    margin: 10px;
+}
