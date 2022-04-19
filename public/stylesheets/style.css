@@ -13,7 +13,7 @@ ul{
     display: flex;
     list-style: none;
     justify-content: space-between;
-    width: 40%
+    width: 700px;
 }
 
 a {
@@ -31,15 +31,15 @@ a:hover{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+
+  
 }
 
 
-
-
-.card-img-top{
+/* .card-img-top{
     width: 400px;
-}
+} */
 
-.card{
-    margin: 10px;
-}
+/* .card{
+    margin:30px 30px;
+} */
